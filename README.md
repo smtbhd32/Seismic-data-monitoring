@@ -1,4 +1,4 @@
-## Earthquake Alert System with ESP32, MPU6050, and ThingSpeak README.md
+## Earthquake Alert System with ESP32, MPU6050, and ThingSpeak
 
 This repository implements an earthquake alert system utilizing an ESP32 microcontroller, MPU6050 accelerometer, the ThingSpeak cloud platform, and optional Twilio SMS integration.
 
